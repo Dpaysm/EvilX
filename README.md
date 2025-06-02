@@ -1,4 +1,4 @@
-### I AM EDITING IT, IT'S NOT FULLY READY YET
+
 
 # 🎯 EVILX Scanner
 ### Advanced Open Redirect Vulnerability Scanner
