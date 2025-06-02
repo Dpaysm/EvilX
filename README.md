@@ -5,9 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/Version-1.0-red)
 
-<p align="center">
-  <img src="banner.png" alt="EVILX Scanner Banner" width="600">
-</p>
+
 
 ## 🚀 Features
 
