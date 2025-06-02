@@ -76,7 +76,9 @@ def get_session(proxy=None):
 
 def load_config():
     try:
-        with open('config/config.json', 'r') as f:
+        BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+        CONFIG_PATH = os.path.join(BASE_DIR, 'config', 'config.json')
+        with open(CONFIG_PATH, 'r') as f:
             return json.load(f)
     except FileNotFoundError:
         console.print("[red]Error: config/config.json not found[/red]")
