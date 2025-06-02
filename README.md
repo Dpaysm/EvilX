@@ -8,7 +8,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0-red)
 
 <p align="center">
-  <img src="evil.png" alt="EVILX Scanner Banner" width="600">
+  <img src="evil.png" alt="EVILX Scanner Banner" width="450">
 </p>
 
 ## 🚀 Features
