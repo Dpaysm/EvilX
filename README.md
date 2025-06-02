@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Version](https://img.shields.io/badge/Version-2.0-red)
+![Version](https://img.shields.io/badge/Version-1.0-red)
 
 <p align="center">
   <img src="banner.png" alt="EVILX Scanner Banner" width="600">
